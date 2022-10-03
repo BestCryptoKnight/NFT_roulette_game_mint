@@ -1,0 +1,70 @@
+.set-bet-modal-bg {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: rgb(34, 33, 33);
+    z-index: 998;
+    opacity: 0.7;
+}
+
+.set-bet-modal-body {
+    position: fixed;
+    background: rgb(241, 238, 238);
+    max-width: 500px;
+    width: 100%;
+    height: 200px;
+    margin: auto;
+    left: 0;
+    right: 0;
+    margin-top: 20%;
+    z-index: 999;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.bet-confirm-btn {
+    background: rgb(4, 153, 12);
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 17px;
+    color: white;
+    font-size: 20px;
+}
+
+.bet-btn {
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: rgb(252, 248, 57);
+    border: 1px rgb(3, 58, 3) solid;
+    font-size: 30px;
+    background: rgba(23, 74, 122, 0.822);
+    font-weight: 800;
+}
+
+.bet-value-btn {
+    padding: 2px 10px;
+    border-radius: 5px;
+}
+
+.btn {
+    padding: 5px 10px;
+    border: 1px grey solid;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.owner-btn{
+    background: rgb(36, 150, 74);
+    padding: 3px 10px;
+    border-radius: 5px;
+    color: white;
+}
+.owner-input{
+    padding: 2px 8px;
+    border-radius: 5px;
+}

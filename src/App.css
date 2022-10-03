@@ -1,0 +1,37 @@
+.green-color {
+    color: #14a514;
+}
+
+.grey-bg {
+    background: #e5e5e5;
+}
+
+.width-50px {
+    width: 50px;
+}
+
+.width-102px {
+    width: 102px;
+}
+
+.active {
+    outline: 3px solid yellow;
+    border: 1px solid yellow;
+    border-radius: 2px;
+}
+
+.active {
+    outline: 3px solid yellow;
+    border: 1px solid yellow;
+    border-radius: 2px;
+}
+
+input:focus {
+    outline: none;
+    border: none;
+}
+
+.roulette-container {
+    max-width: 800px;
+    padding: 10px 20px;
+}
